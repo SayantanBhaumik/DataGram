@@ -1,4 +1,4 @@
-# Getting Started with DataGram 
+#  DataGram 
 
 Centalised OpenSource CrossPlatform Encrypted WebApplication.
 
