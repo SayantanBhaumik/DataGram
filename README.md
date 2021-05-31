@@ -1,6 +1,6 @@
-# Getting Started with DataGram [Centalised OpenSource CrossPlatform Encrypted WebApplication]
+# Getting Started with DataGram 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Centalised OpenSource CrossPlatform Encrypted WebApplication.
 
 ## Available Scripts
 
